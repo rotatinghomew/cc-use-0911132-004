@@ -1,0 +1,444 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-10-30T00:00:00+00:00",
+  "source_versions": {
+    "operations": "r1",
+    "reference": "r1"
+  },
+  "submissions": [
+    {
+      "submission_id": "submission-0",
+      "text": "夜间装卸噪声需要错峰",
+      "stakeholder": "resident",
+      "submitted_at": "2026-08-01T00:00:00+00:00",
+      "available_at": "2026-08-01T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-1",
+      "text": "公交末班时间太早请优先处理",
+      "stakeholder": "merchant",
+      "submitted_at": "2026-08-02T00:00:00+00:00",
+      "available_at": "2026-08-02T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-2",
+      "text": "小店办证指引不清",
+      "stakeholder": "commuter",
+      "submitted_at": "2026-08-03T00:00:00+00:00",
+      "available_at": "2026-08-03T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-3",
+      "text": "桥边照明损坏请优先处理",
+      "stakeholder": "resident",
+      "submitted_at": "2026-08-04T00:00:00+00:00",
+      "available_at": "2026-08-04T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-4",
+      "text": "步行入口路面破损",
+      "stakeholder": "merchant",
+      "submitted_at": "2026-08-05T00:00:00+00:00",
+      "available_at": "2026-08-05T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-5",
+      "text": "夜班司机缺少休息点请优先处理",
+      "stakeholder": "night-driver",
+      "submitted_at": "2026-08-06T00:00:00+00:00",
+      "available_at": "2026-08-06T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-6",
+      "text": "夜间装卸噪声需要错峰",
+      "stakeholder": "resident",
+      "submitted_at": "2026-08-07T00:00:00+00:00",
+      "available_at": "2026-08-07T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-7",
+      "text": "公交末班时间太早请优先处理",
+      "stakeholder": "merchant",
+      "submitted_at": "2026-08-08T00:00:00+00:00",
+      "available_at": "2026-08-08T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-8",
+      "text": "小店办证指引不清",
+      "stakeholder": "commuter",
+      "submitted_at": "2026-08-09T00:00:00+00:00",
+      "available_at": "2026-08-09T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-9",
+      "text": "桥边照明损坏请优先处理",
+      "stakeholder": "resident",
+      "submitted_at": "2026-08-10T00:00:00+00:00",
+      "available_at": "2026-08-10T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-10",
+      "text": "步行入口路面破损",
+      "stakeholder": "merchant",
+      "submitted_at": "2026-08-11T00:00:00+00:00",
+      "available_at": "2026-08-11T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-11",
+      "text": "夜班司机缺少休息点请优先处理",
+      "stakeholder": "night-driver",
+      "submitted_at": "2026-08-12T00:00:00+00:00",
+      "available_at": "2026-08-12T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-12",
+      "text": "夜间装卸噪声需要错峰",
+      "stakeholder": "resident",
+      "submitted_at": "2026-08-13T00:00:00+00:00",
+      "available_at": "2026-08-13T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-13",
+      "text": "公交末班时间太早请优先处理",
+      "stakeholder": "merchant",
+      "submitted_at": "2026-08-14T00:00:00+00:00",
+      "available_at": "2026-08-14T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-14",
+      "text": "小店办证指引不清",
+      "stakeholder": "commuter",
+      "submitted_at": "2026-08-15T00:00:00+00:00",
+      "available_at": "2026-08-15T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-15",
+      "text": "桥边照明损坏请优先处理",
+      "stakeholder": "resident",
+      "submitted_at": "2026-08-16T00:00:00+00:00",
+      "available_at": "2026-08-16T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-16",
+      "text": "步行入口路面破损",
+      "stakeholder": "merchant",
+      "submitted_at": "2026-08-17T00:00:00+00:00",
+      "available_at": "2026-08-17T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-17",
+      "text": "夜班司机缺少休息点请优先处理",
+      "stakeholder": "night-driver",
+      "submitted_at": "2026-08-18T00:00:00+00:00",
+      "available_at": "2026-08-18T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-18",
+      "text": "夜间装卸噪声需要错峰",
+      "stakeholder": "resident",
+      "submitted_at": "2026-08-19T00:00:00+00:00",
+      "available_at": "2026-08-19T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-19",
+      "text": "公交末班时间太早请优先处理",
+      "stakeholder": "merchant",
+      "submitted_at": "2026-08-20T00:00:00+00:00",
+      "available_at": "2026-08-20T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-20",
+      "text": "小店办证指引不清",
+      "stakeholder": "commuter",
+      "submitted_at": "2026-08-21T00:00:00+00:00",
+      "available_at": "2026-08-21T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-21",
+      "text": "桥边照明损坏请优先处理",
+      "stakeholder": "resident",
+      "submitted_at": "2026-08-22T00:00:00+00:00",
+      "available_at": "2026-08-22T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-22",
+      "text": "步行入口路面破损",
+      "stakeholder": "merchant",
+      "submitted_at": "2026-08-23T00:00:00+00:00",
+      "available_at": "2026-08-23T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-23",
+      "text": "夜班司机缺少休息点请优先处理",
+      "stakeholder": "night-driver",
+      "submitted_at": "2026-08-24T00:00:00+00:00",
+      "available_at": "2026-08-24T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-24",
+      "text": "夜间装卸噪声需要错峰",
+      "stakeholder": "resident",
+      "submitted_at": "2026-08-25T00:00:00+00:00",
+      "available_at": "2026-08-25T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-25",
+      "text": "公交末班时间太早请优先处理",
+      "stakeholder": "merchant",
+      "submitted_at": "2026-08-26T00:00:00+00:00",
+      "available_at": "2026-08-26T00:00:00+00:00",
+      "forwarded_from": "submission-1"
+    },
+    {
+      "submission_id": "submission-26",
+      "text": "小店办证指引不清",
+      "stakeholder": "commuter",
+      "submitted_at": "2026-08-27T00:00:00+00:00",
+      "available_at": "2026-08-27T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-27",
+      "text": "桥边照明损坏请优先处理",
+      "stakeholder": "resident",
+      "submitted_at": "2026-08-28T00:00:00+00:00",
+      "available_at": "2026-08-28T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-28",
+      "text": "步行入口路面破损",
+      "stakeholder": "merchant",
+      "submitted_at": "2026-08-29T00:00:00+00:00",
+      "available_at": "2026-08-29T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-29",
+      "text": "夜班司机缺少休息点请优先处理",
+      "stakeholder": "night-driver",
+      "submitted_at": "2026-08-30T00:00:00+00:00",
+      "available_at": "2026-08-30T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-30",
+      "text": "夜间装卸噪声需要错峰",
+      "stakeholder": "resident",
+      "submitted_at": "2026-08-31T00:00:00+00:00",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-31",
+      "text": "公交末班时间太早请优先处理",
+      "stakeholder": "merchant",
+      "submitted_at": "2026-09-01T00:00:00+00:00",
+      "available_at": "2026-09-01T00:00:00+00:00",
+      "forwarded_from": "submission-1"
+    },
+    {
+      "submission_id": "submission-32",
+      "text": "小店办证指引不清",
+      "stakeholder": "commuter",
+      "submitted_at": "2026-09-02T00:00:00+00:00",
+      "available_at": "2026-09-02T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-33",
+      "text": "桥边照明损坏请优先处理",
+      "stakeholder": "resident",
+      "submitted_at": "2026-09-03T00:00:00+00:00",
+      "available_at": "2026-09-03T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-34",
+      "text": "步行入口路面破损",
+      "stakeholder": "merchant",
+      "submitted_at": "2026-09-04T00:00:00+00:00",
+      "available_at": "2026-09-04T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-35",
+      "text": "夜班司机缺少休息点请优先处理",
+      "stakeholder": "night-driver",
+      "submitted_at": "2026-09-05T00:00:00+00:00",
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-36",
+      "text": "夜间装卸噪声需要错峰",
+      "stakeholder": "resident",
+      "submitted_at": "2026-09-06T00:00:00+00:00",
+      "available_at": "2026-09-06T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-37",
+      "text": "公交末班时间太早请优先处理",
+      "stakeholder": "merchant",
+      "submitted_at": "2026-09-07T00:00:00+00:00",
+      "available_at": "2026-09-07T00:00:00+00:00",
+      "forwarded_from": "submission-1"
+    },
+    {
+      "submission_id": "submission-38",
+      "text": "小店办证指引不清",
+      "stakeholder": "commuter",
+      "submitted_at": "2026-09-08T00:00:00+00:00",
+      "available_at": "2026-09-08T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-39",
+      "text": "桥边照明损坏请优先处理",
+      "stakeholder": "resident",
+      "submitted_at": "2026-09-09T00:00:00+00:00",
+      "available_at": "2026-09-09T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-40",
+      "text": "步行入口路面破损",
+      "stakeholder": "merchant",
+      "submitted_at": "2026-09-10T00:00:00+00:00",
+      "available_at": "2026-09-10T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-41",
+      "text": "夜班司机缺少休息点请优先处理",
+      "stakeholder": "night-driver",
+      "submitted_at": "2026-09-11T00:00:00+00:00",
+      "available_at": "2026-09-11T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-42",
+      "text": "夜间装卸噪声需要错峰",
+      "stakeholder": "resident",
+      "submitted_at": "2026-09-12T00:00:00+00:00",
+      "available_at": "2026-09-12T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-43",
+      "text": "公交末班时间太早请优先处理",
+      "stakeholder": "merchant",
+      "submitted_at": "2026-09-13T00:00:00+00:00",
+      "available_at": "2026-09-13T00:00:00+00:00",
+      "forwarded_from": "submission-1"
+    },
+    {
+      "submission_id": "submission-44",
+      "text": "小店办证指引不清",
+      "stakeholder": "commuter",
+      "submitted_at": "2026-09-14T00:00:00+00:00",
+      "available_at": "2026-09-14T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-45",
+      "text": "桥边照明损坏请优先处理",
+      "stakeholder": "resident",
+      "submitted_at": "2026-08-01T00:00:00+00:00",
+      "available_at": "2026-08-01T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-46",
+      "text": "步行入口路面破损",
+      "stakeholder": "merchant",
+      "submitted_at": "2026-08-02T00:00:00+00:00",
+      "available_at": "2026-08-02T00:00:00+00:00",
+      "forwarded_from": null
+    },
+    {
+      "submission_id": "submission-47",
+      "text": "夜班司机缺少休息点请优先处理",
+      "stakeholder": "night-driver",
+      "submitted_at": "2026-08-03T00:00:00+00:00",
+      "available_at": "2026-08-03T00:00:00+00:00",
+      "forwarded_from": null
+    }
+  ],
+  "judgments": [
+    {
+      "left": "submission-0",
+      "right": "submission-6",
+      "relation": "same",
+      "available_at": "2026-08-21T00:00:00+00:00"
+    },
+    {
+      "left": "submission-0",
+      "right": "submission-5",
+      "relation": "different",
+      "available_at": "2026-08-22T00:00:00+00:00"
+    },
+    {
+      "left": "submission-2",
+      "right": "submission-8",
+      "relation": "same",
+      "available_at": "2026-11-04T00:00:00+00:00"
+    }
+  ],
+  "previous_issues": [
+    {
+      "issue_id": "issue-traffic",
+      "members": [
+        "submission-1",
+        "submission-7"
+      ],
+      "version": "d0",
+      "commitment_ids": [
+        "commitment-bus"
+      ]
+    }
+  ],
+  "manual_actions": [
+    {
+      "action_id": "merge-1",
+      "kind": "merge",
+      "issue_ids": [
+        "issue-traffic",
+        "issue-road"
+      ],
+      "available_at": "2026-10-15T00:00:00+00:00"
+    }
+  ],
+  "discovery": {
+    "cutoff": "2026-09-30T00:00:00+00:00",
+    "max_topics": 10,
+    "minimum_independent_support": 2
+  },
+  "baseline_case_id": "deliberation_lake-demo"
+}
